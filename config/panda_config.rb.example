@@ -1,0 +1,6 @@
+PANDA_ENCODING = "Flash video SD"
+VIDEOS_DOMAIN = "s3.amazonaws.com/your-bucket-name"
+
+Panda.account_key = "####################################"
+Panda.api_domain = "xxxxxxxxxxxxxxxx.xxxxxxxxx.amazonaws.com"
+Panda.api_port = 80

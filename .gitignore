@@ -1,0 +1,3 @@
+config/panda_config.rb
+log/
+db/*.sqlite3
